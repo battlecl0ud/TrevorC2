@@ -1,5 +1,5 @@
 ## trevorc2_server
-[![Generic badge](https://img.shields.io/badge/source-trevorc2_server-green.svg)](openssl ca-certificates py3-requests py3-pip build-dependencies python3-dev build-base wget)  
+[![Generic badge](https://img.shields.io/badge/source-trevorc2_server-green.svg)](https://github.com/trustedsec/trevorc2)  
 ☁️  
 ☁️ *battlecloud friendly edition*  
 ☁️
