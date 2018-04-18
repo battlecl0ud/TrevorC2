@@ -9,6 +9,6 @@ then
       
 else
       
-      python trevorc2_server $USER_INPUT
+      python trevorc2_server.py $USER_INPUT
       
 fi
